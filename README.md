@@ -1,2 +1,2 @@
 # Credit_Card_Weekly_project
-PowerBi dashboard
+Credit Card Transaction and Customer Dashboard using Power BI
